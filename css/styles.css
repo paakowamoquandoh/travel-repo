@@ -1,0 +1,37 @@
+.navbarme {
+    float: left;
+    height: auto;
+    padding: none;
+    font-size: 20px;
+    line-height: 10px;
+}
+
+body{
+    Font-size: auto;
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+	margin-left: auto;
+	height: auto;
+}
+
+.foot{
+    background-color: blue;
+    margin-bottom: 3rem;
+}
+
+.four{
+    color: orange;
+}
+
+.fives{
+    color: lawngreen;
+}
+
+.out{
+    color: antiquewhite;
+}
+
